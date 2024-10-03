@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, email is lxy_santum@hotmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: i am allergic to fresh fruits such as apples, peaches, and pears
+- ⚡ Fun fact: I'm allergic to fresh fruits such as apples, peaches, and pears
 
 <!---
 LeeXYang/LeeXYang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
